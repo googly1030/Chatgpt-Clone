@@ -15,7 +15,7 @@ The ChatGPT Clone allows users to have interactive conversations with the AI mod
 1. Clone the repository:
 
    ```bash
-   git clone <r[epository-url](https://github.com/googly1030/Chatgpt-Clone)>
+   git clone <(https://github.com/googly1030/Chatgpt-Clone)>
 2.Set up the project:
 
 Copy the API key received from OpenAI and replace <YOUR-API-KEY> with your actual API key in the JavaScript file (app.js):
